@@ -1,4 +1,4 @@
-# weather
+# Weather MobileApplication Clone
 
 Creating a weather application that allows users to check the current weather conditions for a specific location. The app will display the temperature, weather icon, and a brief description of the weather (e.g., "Sunny," "Cloudy," "Rainy").
 
