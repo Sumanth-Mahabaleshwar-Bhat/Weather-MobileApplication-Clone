@@ -1,4 +1,16 @@
-# Weather MobileApplication Clone
+# Mini Project 2 - Flutter LayoutsMini Project 2 - Flutter Layouts
+
+# Requirements:
+Identify a screen from one of your favorite Apps and duplicate its layout using Flutter
+A material app with scaffold/safearea
+At least 3 different types of basic widgets
+At least 2 types of single-child layout widgets (container, padding, center, ... etc)
+At least 2 types of multi-children layout widgets (must include row and/or column)
+At least 1 image asset
+All text widgets are styled (font size, color, font weight .. etc.)
+The layout created should match the original in dimensions, positioning, colors, fonts, … etc. to the best of your ability
+
+# Weather Mobile Application Clone
 
 Creating a weather application that allows users to check the current weather conditions for a specific location. The app will display the temperature, weather icon, and a brief description of the weather (e.g., "Sunny," "Cloudy," "Rainy").
 
